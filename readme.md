@@ -345,7 +345,7 @@
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
 - [BEM](https://github.com/sturobson/BEM-resources#readme)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme) - Awesome CSS Responsive classes
 - [Web Typography](https://github.com/deanhume/typography#readme)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
@@ -368,7 +368,7 @@
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
-- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme) - Building mobile app functionality and look in website.
 - [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
@@ -401,7 +401,7 @@
 ## Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme) - New way of Virtualization.
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
